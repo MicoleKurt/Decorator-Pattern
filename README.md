@@ -88,4 +88,5 @@ Follow instructions.  You are not allowed to insert other methods except what is
 
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+<img width="1205" height="734" alt="image" src="https://github.com/user-attachments/assets/21c4232c-d04b-4ed2-bbd8-d37a922a7f72" />
+
