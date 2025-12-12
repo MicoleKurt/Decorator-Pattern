@@ -87,6 +87,6 @@ Follow instructions.  You are not allowed to insert other methods except what is
 
 
 
-## Class Diagram
+## UML Class Diagram
 <img width="1205" height="734" alt="image" src="https://github.com/user-attachments/assets/21c4232c-d04b-4ed2-bbd8-d37a922a7f72" />
 
